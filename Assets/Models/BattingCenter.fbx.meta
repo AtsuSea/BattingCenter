@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 693a98b813cc1354a98a36a2c10747e3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackNetA
+    100002: BackNetB
+    100004: BackNetC
+    100006: BaseC
+    100008: BaseL
+    100010: BaseR
+    100012: //RootNode
+    100014: HomeRun
+    100016: MachineC
+    100018: MachineFence
+    100020: MachineL
+    100022: MachineR
+    100024: partition1
+    100026: partition2
+    100028: partition3
+    100030: partition4
+    100032: RedBallC
+    100034: RedBallL
+    100036: RedBallR
+    100038: turf
+    400000: BackNetA
+    400002: BackNetB
+    400004: BackNetC
+    400006: BaseC
+    400008: BaseL
+    400010: BaseR
+    400012: //RootNode
+    400014: HomeRun
+    400016: MachineC
+    400018: MachineFence
+    400020: MachineL
+    400022: MachineR
+    400024: partition1
+    400026: partition2
+    400028: partition3
+    400030: partition4
+    400032: RedBallC
+    400034: RedBallL
+    400036: RedBallR
+    400038: turf
+    2100000: grass
+    2100002: HomeBase
+    2100004: machine
+    2100006: RedBall
+    2100008: MachineNet
+    2100010: partition
+    2100012: BackNetFront
+    2100014: HomeRun
+    2100016: ABC
+    2100018: BackNetBack
+    2300000: BackNetA
+    2300002: BackNetB
+    2300004: BackNetC
+    2300006: BaseC
+    2300008: BaseL
+    2300010: BaseR
+    2300012: HomeRun
+    2300014: MachineC
+    2300016: MachineFence
+    2300018: MachineL
+    2300020: MachineR
+    2300022: partition1
+    2300024: partition2
+    2300026: partition3
+    2300028: partition4
+    2300030: RedBallC
+    2300032: RedBallL
+    2300034: RedBallR
+    2300036: turf
+    3300000: BackNetA
+    3300002: BackNetB
+    3300004: BackNetC
+    3300006: BaseC
+    3300008: BaseL
+    3300010: BaseR
+    3300012: HomeRun
+    3300014: MachineC
+    3300016: MachineFence
+    3300018: MachineL
+    3300020: MachineR
+    3300022: partition1
+    3300024: partition2
+    3300026: partition3
+    3300028: partition4
+    3300030: RedBallC
+    3300032: RedBallL
+    3300034: RedBallR
+    3300036: turf
+    4300000: turf
+    4300002: MachineC
+    4300004: MachineR
+    4300006: MachineL
+    4300008: BaseC
+    4300010: BaseR
+    4300012: BaseL
+    4300014: RedBallC
+    4300016: RedBallR
+    4300018: RedBallL
+    4300020: MachineFence
+    4300022: HomeRun
+    4300024: partition1
+    4300026: partition2
+    4300028: partition3
+    4300030: partition4
+    4300032: BackNetA
+    4300034: BackNetB
+    4300036: BackNetC
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

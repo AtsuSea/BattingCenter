@@ -1,0 +1,3 @@
+# BattingCenter
+
+UnityAssetは.gitignoreで外してあるので各自で入れないとビルドできません（FinalIKなど有料のものもあります）
